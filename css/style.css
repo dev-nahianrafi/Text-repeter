@@ -1,0 +1,77 @@
+/* .border{
+    margin: 0 auto;
+    padding: 50px 30px;
+    width: 350px;
+    border: 2px solid #222;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.age{
+    height: 30px;
+    width: 190px;
+    padding-left: 10px;
+}
+.btn{
+    padding: 9px 20px;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: transparent;
+    transition: all linear 0.2s;
+}
+.btn:hover{
+    background-color: brown;
+    color: #fff;
+    border: 2px solid transparent;
+}
+.nnn{
+    height: 180px;
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}
+.result{
+    text-transform: capitalize;
+} */
+
+#texttt{
+    margin-top: 30px;
+    padding: 70px 0;
+    background-color: blueviolet;
+}
+.text_repeter{
+    width: 600px;
+    margin: 0 auto;
+}
+.text_repeter input{
+    padding: 20px 0;
+    padding-left: 10px;
+}
+.btnn{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+.btnn button{
+    padding: 10px 15px;
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+}
+.text_repeter form{
+    display: flex;
+    flex-direction: column;
+}
+.text_repeter textarea{
+    height: 300px;
+    padding-left: 10px;
+    font-size: 18px;
+}
